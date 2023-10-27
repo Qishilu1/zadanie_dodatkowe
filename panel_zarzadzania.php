@@ -13,8 +13,8 @@
 	<body>
 
 		<main id="przyciski">
-			<a href="dodawanie.html">Dodawanie</a>
-			<a href="przegladanie.html">Przeglądanie</a>
+			<a href="dodawanie.php">Dodawanie</a>
+			<a href="przegladanie.php">Przeglądanie</a>
 		</main>
 	</body>
 	

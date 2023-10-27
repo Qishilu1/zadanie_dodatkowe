@@ -13,8 +13,8 @@
 	<body>
 
 		<main id="przyciski">
-			<a href="main.html">Strona Główna</a>
-			<a href="dodawanie.html">Dodawanie</a>
+			<a href="panel_zarzadzania.php">Strona Główna</a>
+			<a href="dodawanie.php">Dodawanie</a>
 		</main>
 		<section id="sekcja">
 			<h2>Produkty</h2>

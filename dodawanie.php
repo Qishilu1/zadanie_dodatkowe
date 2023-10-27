@@ -13,8 +13,8 @@
 	<body>
 
     <main id="przyciski">
-        <a href="main.html">Strona Główna</a>
-        <a href="przegladanie.html">Przeglądanie</a>
+        <a href="panel_zarzadzania.php">Strona Główna</a>
+        <a href="przegladanie.php">Przeglądanie</a>
     </main>
     <form>
         <input type="text" placeholder="Nazwa produktu">
