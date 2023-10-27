@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title>System ERP - zadanie dodatkowe</title>
+	</head>
+	
+	<header>
+		<h1>Witamy na naszej stronie!</h1>
+	</header>
+	
+	<body>
+
+		<main id="przyciski">
+			<a href="dodawanie.html">Dodawanie</a>
+			<a href="przegladanie.html">Przeglądanie</a>
+		</main>
+	</body>
+	
+	<footer>
+		
+	</footer>
+</html>
