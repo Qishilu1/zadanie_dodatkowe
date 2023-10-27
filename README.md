@@ -21,7 +21,7 @@ zamówienia, klient, produkt itp.).
 Employees zawierającą dane pracowników (np. ID, imię, nazwisko,
 stanowisko, wynagrodzenie itp.).
 EmployeeActions zawierającą informacje 0 akcjach pracowników na
-produktach iklientach (np. ID akcji, ID pracownika, typ akgi, ID
+produktach iklientach (np. ID akcji, ID pracownika, typ akcji, ID
 produktu/klienta itp.).
 Pamiętaj, aby odpowiednio dobrać typy danych dla kazdej kolumny.
 3. Wypelnij tabele przykładowymi danymi.
