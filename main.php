@@ -7,11 +7,15 @@
 	</head>
 	
 	<header>
-		Zarządzanie pracownikami
+		<h1>Panel Zarządzania</h1>
 	</header>
 	
 	<body>
-		
+
+		<main id="przyciski">
+			<a href="dodawanie.html">Dodawanie</a>
+			<a href="przegladanie.html">Przeglądanie</a>
+		</main>
 	</body>
 	
 	<footer>
