@@ -14,7 +14,7 @@
 
 		<main id="przyciski">
 			<a href="panel_zarzadzania.php">Strona Główna</a>
-			<a href="dodawanie.php">Dodawanie</a>
+			<a href="edytowanie.php">Edytowanie</a>
 		</main>
 		<section id="sekcja">
 			<h2>Produkty</h2>

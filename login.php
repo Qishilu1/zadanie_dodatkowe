@@ -5,7 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<title>System ERP - zadanie dodatkowe</title>
 		<script type="text/javascript" src="skrypt_haslo.js" async></script>
-		<script type="text/javascript" src="wypisanie_login.js" async></script>
+<!--	<script type="text/javascript" src="wypisanie_login.js" async></script> -->
 	</head>
 	
 	<header>
@@ -31,7 +31,7 @@
 					</div>
 				</form>
 
-				<div id="wypisanie"></div>
+		<!--	<div id="wypisanie"></div>	-->
 				
 			</div>
 
