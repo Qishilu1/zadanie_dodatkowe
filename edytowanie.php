@@ -18,8 +18,10 @@
 		</main>
 		
 		<section id="edytowanie_przyciski">
-			<h3>Co chciałbyś wykonać?</h3>
+			<h2>Co chciałbyś wykonać?</h2><br><br>
 			<a href="edytowanie_produkt.php">Edytować produkty</a>
+			<a href="edytowanie_klient.php">Edytować klientów</a>
+			<a href="edytowanie_pracownik.php">Edytować pracowników</a>
 		</section>
 	</body>
 	

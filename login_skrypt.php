@@ -15,19 +15,19 @@
         $login = $_POST['login'];
         $password = $_POST['passwd'];
 
-        $get_user_query = "SELECT * FROM users WHERE login='$login'";
-        $result = mysqli_query($database, $get_user_query);
+        $wyszukanie_login = "SELECT * FROM users WHERE login='$login'";
+        $wynik = mysqli_query($database, $wyszukanie_login);
 
-        if (mysqli_num_rows($result) > 0) {
-            $row = mysqli_fetch_assoc($result);
+        if (mysqli_num_rows($wynik) > 0) {
+            $row = mysqli_fetch_assoc($wynik);
             $hashed_password = $row["password"];
-            $account_type = $row["account_type"];
+            $typ_konta = $row["account_type"];
 
             if (password_verify($password, $hashed_password)) {
-                if ($account_type == 0) {
+                if ($typ_konta == 0) {
                     header("Location: przegladanie.php");
                     exit();
-                } elseif ($account_type == 1) {
+                } elseif ($typ_konta == 1) {
                     header("Location: panel_zarzadzania.php");
                     exit();
                 } else {
