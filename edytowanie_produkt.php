@@ -7,7 +7,7 @@
 	</head>
 	
 	<header>
-		<h1>Dodawanie</h1>
+		<h1>Edytowanie</h1>
 	</header>
 	
 	<body>
